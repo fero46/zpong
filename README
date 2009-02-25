@@ -1,0 +1,77 @@
+##########################################################################################
+                                                                                         
+   #################            ###########     #######       ##        ##      ######## 
+               ###              ##       ##    ##     ##      ## #      ##    ##         
+             ###                ##       ##   ##       ##     ##  #     ##   ##          
+           ###                  ##       ##   ##        ##    ##   #    ##   ##          
+         ###            ####    ## ########   ##        ##    ##    #   ##   ##     #### 
+    	###                     ##             ##      ##     ##     #  ##   ##       ## 
+	  ###                       ##              ##    ##      ##      # ##    ##      ## 
+   #################            ##               #####        ##        ##      ######## 
+                                                                                         
+                                                                                         
+                                                                                         
+     ##                                                                                  
+     ##                                                                                  
+     ##                                                                                  
+     ##                     ##                                                           
+     ##                   #####                                                          
+     ##                    ###                                                           
+                                                                           ##            
+                                                                           ##            
+                                                                           ##            
+                                                                           ##            
+                                                                           ##            
+                                                                           ##            
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+##########################################################################################
+
+
+Z-Pong is a never ending (or continued) project (coded in 5 hours in 2001) with a very ugly 
+source-code for free. It's under the GPL v. 2
+
+Take it and use it, how u like it, u can modified or something else. Make a fork or what
+ever. 
+
+I put a compiled version for windows xp (should work under vista) in that repository for
+playing games. I tested this version on linux and xp. 
+
+Know'n issues:
+==============
+
+To much, i don't want to write it.
+
+How to change the design.
+==========================
+
+Change the gfx how u like, there are made with gimp.
+
+The files for gfx are 
+	--- BACK The background image (should be max 640px x 480)
+	--- BALL The image for the bal                          
+    --- Intro The image in intro game
+    --- Pont What could it be :-)
+    --- Font the bitmap fonts. Generated with the font builder v. 1.3
+    
+	The image file format shoud be BMP, XMP und PCX. Use Gimp for converting
+	
+The plan was the changing for skin should be over a config file. But it's never
+happend.
+
+Request for more feature
+=========================
+ 
+	--- play pong over network 
+	--- Easy skin loading and config file for skins
+	--- Better AI
+	--- Code clean up
+	--- Points have to shown in the screen. Now u can see the points in stout.txt
+	--- Better gameplay
+	--- Rename files
+	
+
+Make a fork or what ever you want.
+
